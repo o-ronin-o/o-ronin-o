@@ -1,6 +1,6 @@
 # 👋 Hi, I'm RONIN
 
-> *A student working on my programming skills*
+> *Computer Engineer, AI Enthuthiast and a shawerma junky XD*
 
 I'm passionate about machine learning, systems programming, and building intelligent applications from the ground up. I believe in understanding the fundamentals by implementing algorithms from scratch and exploring diverse domains from neural networks to operating systems.
 
