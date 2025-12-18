@@ -2,7 +2,8 @@
 
 > *Computer Engineer, AI Enthuthiast and a shawerma junky XD*
 
-I'm passionate about machine learning, systems programming, and building intelligent applications from the ground up. I believe in understanding the fundamentals by implementing algorithms from scratch and exploring diverse domains from neural networks to operating systems.
+I'm passionate about AI/machine learning, systems programming, and building intelligent applications from the ground up. I believe in understanding the fundamentals by implementing algorithms from scratch and exploring diverse domains from neural networks to operating systems.
+i have deep interest in researching new technologies and using them to build intersting solutions and yet i have a long way to go.
 
 ---
 
