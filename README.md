@@ -40,6 +40,11 @@ A signal processing project that uncovers mysterious words by filtering out nois
 
 ### 💻 Systems Programming & Operating Systems
 
+#### CPU Scheduling Simulator 
+
+This project implements a **CPU scheduling simulator** supporting multiple classic scheduling algorithms.
+It produces both **execution traces** and **statistical summaries**, exactly matching the required lab format.
+
 #### [Mini Shell](https://github.com/o-ronin-o/mini-shell)
 A fully functional shell implementation that handles various commands, mocks modern-day terminals, manages pipelines, and more. Demonstrates deep understanding of operating system concepts, process management, and Unix/Linux system programming.
 
