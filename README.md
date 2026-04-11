@@ -15,7 +15,7 @@
 
 ## About Me
 
-Computer and Communication Engineering student at Alexandria University (CGPA: 3.26/4.0) with a deep obsession for understanding things from the ground up — whether that's backpropagation, a Unix shell, or why shawarma hits differently after a long debug session.
+Computer and Communication Engineering student at Alexandria University (CGPA: 3.26/4.0) with a deep obsession for understanding things from the ground up, whether that's backpropagation, a Unix shell, or why shawarma hits differently after a long debug session.
 
 I work across the full stack of CS: AI systems, low-level systems programming, signal processing, DevOps, and everything in between. I believe the best way to truly understand something is to build it yourself.
 
