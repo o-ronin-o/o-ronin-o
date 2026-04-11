@@ -67,10 +67,3 @@ An ongoing research project combining deep learning with audio signal processing
 
 ---
 
-## 📈 Stats
-
-<div align="center">
-
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=o-ronin-o&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
